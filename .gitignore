@@ -1,0 +1,8 @@
+## ignore path
+
+Debug/*
+Release/*
+sift/Debug/*
+sift/Release/*
+sift/sift.*
+sift.*
